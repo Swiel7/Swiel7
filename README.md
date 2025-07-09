@@ -64,7 +64,7 @@ For more than 3 years, I've been focused on front-end technologies. I'm dedicate
 ## 📂 Main Projects
 
 
-🔹 **Techvvare Store** - An e-commerce platform built with Next.js. It delivers a smooth online shopping experience with a user-friendly interface, secure payments, and easy account management.
+🔹 **Techvvare Store** - An e-commerce store built with Next.js. Provides a full shopping process from browse products and managing a cart to secure payments via Stripe. It also features a user dashboard with order history and a review system.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,7 +80,7 @@ Live Demo: https://techvvare-store.vercel.app
 
 ---
 
-🔹 **Salesprit Food POS** - A web-based Point of Sale app for food ordering. It lets users browse menus, add items to their cart, place orders, and manage accounts. Built with React for a snappy experience.
+🔹 **Salesprit Food POS** - A web-based Point of Sale app for food ordering. It lets users browse menus, add items to their cart, place orders, and manage accounts. Built with React.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -94,7 +94,7 @@ Live Demo: https://salesprit-food-pos.vercel.app
 
 ---
 
-🔹 **Crazy Racing Revolution One** - A racing game developed in Unity. It features fast-paced cars, diverse tracks, and multiple game modes, drawing inspiration from classic racing games.
+🔹 **Crazy Racing Revolution One** - A racing game developed in Unity. It offers diverse tracks, several game modes and tuning options, drawing inspiration from classic racing games.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
